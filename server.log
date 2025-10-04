@@ -1,0 +1,5 @@
+2025-10-03 10:15:23,INFO,User login successful, user_id=101
+2025-10-03 10:16:01,ERROR,Database connection failed, code=500
+2025-10-03 10:17:45,WARNING,High memory usage detected, usage=85%
+2025-10-03 10:18:12,INFO,File uploaded, file_name=data.csv
+2025-10-03 10:19:05,ERROR,Timeout occurred, code=408
